@@ -1,101 +1,181 @@
-# 🛡️ MindGuard — AI-Powered PTSD Support & Mental Wellness App
+# 🛡️ MindGuard — A Stigma-Free Mental Wellness Companion
 
-> *"Healing is not linear. MindGuard walks every step with you."*
+> *"Support should feel safe, private, and judgment-free — especially where speaking up is hardest."*
 
 ---
 
-## 🧠 What is PTSD?
+## 🎯 Problem Statement
 
-Post-Traumatic Stress Disorder (PTSD) is a serious mental health condition triggered by experiencing or witnessing a traumatic event. It affects **millions of people worldwide** and is one of the most underdiagnosed and undertreated mental health conditions.
+**Problem Statement 2 — USNepal Hackathon**
+
+> *Create solutions that lower mental health stigma and improve early support in culturally conservative communities.*
+
+---
+
+## 🌍 The Real Problem
+
+In culturally conservative communities — including Nepal and similar regions across South Asia — mental health remains one of the most stigmatized topics:
+
+- Mental health struggles are seen as **personal weakness or moral failure**
+- Individuals fear **judgment, shame, and social consequences** if they seek help
+- People prefer to **suffer in silence** rather than risk being labeled
+- Professional mental health care is **expensive, inaccessible, or unavailable** — especially in rural areas
+- Most individuals only seek help when conditions have already become **severe** (PTSD, depression, crisis states)
+
+### The Result
+
+> Early signs of stress, anxiety, and trauma go **unnoticed and untreated** — silently escalating into serious, life-altering mental health conditions.
 
 ### Key Statistics
 
-- **~70%** of adults worldwide experience at least one traumatic event in their lifetime
-- **~20%** of those who experience trauma develop PTSD
-- **8 million** adults in the US alone are diagnosed with PTSD each year
-- PTSD affects **veterans, abuse survivors, accident victims, first responders**, and anyone who has faced severe trauma
-- Only **~50%** of people with PTSD ever seek treatment — largely due to stigma, lack of access, and unawareness
-- Untreated PTSD leads to depression, substance abuse, relationship breakdown, and in severe cases, suicide
-
-### Common PTSD Symptoms
-
-- **Re-experiencing**: Flashbacks, nightmares, intrusive memories
-- **Avoidance**: Staying away from people, places, or thoughts related to trauma
-- **Hyperarousal**: Being easily startled, difficulty sleeping, irritability
-- **Negative cognition**: Guilt, shame, emotional numbness, detachment
-- **Dissociation**: Feeling disconnected from reality or one's own body
+- **1 in 5** people globally will experience a mental health condition in their lifetime
+- In South Asia, **less than 1%** of the health budget is allocated to mental health
+- **~80%** of people with mental health conditions in low-income countries receive **no treatment at all**
+- Stigma is cited as the **#1 barrier** to seeking mental health support worldwide
+- Untreated early-stage stress and anxiety can develop into **PTSD, depression, and substance abuse**
+- Only **~50%** of people with PTSD ever seek treatment — largely due to stigma and lack of access
 
 ---
 
-## 💡 The Problem We're Solving
+## 💡 Our Approach
 
-Mental health support for PTSD is:
+MindGuard focuses on **early, stigma-free support** — reaching people *before* problems become severe.
 
-- **Expensive** — therapy sessions cost $100–$300/hour
-- **Inaccessible** — long waitlists, limited therapists in rural areas
-- **Stigmatized** — many people avoid seeking help due to social shame
-- **Reactive** — most tools only help during a crisis, not proactively
+Instead of positioning mental health as "treatment" or "therapy" (words that carry stigma), MindGuard provides:
 
-**MindGuard bridges this gap** — providing a science-backed, always-available, private, and compassionate digital companion for PTSD recovery and daily mental wellness.
+- **Private, non-judgmental tools** framed around daily wellness
+- **Culturally neutral entry points** — stress, sleep, focus, balance
+- **Self-guided support** that requires no therapist, no appointment, no disclosure
+- **A safe space** where users can explore their emotional health anonymously
 
 ---
 
 ## 🚀 What is MindGuard?
 
-**MindGuard** is a cross-platform Flutter mobile application designed to support individuals living with PTSD and anxiety. It combines evidence-based therapeutic techniques, binaural audio science, mindfulness practices, and smart self-assessment tools into one beautifully designed app.
+**MindGuard** is a privacy-first, AI-powered mental wellness app built for individuals who are **not ready or able** to seek traditional mental health support — particularly those in stigma-heavy, culturally conservative communities.
 
-Built during **USNepal Hackathon**, MindGuard is not just an app — it's a **mental wellness ecosystem** that empowers users to understand, manage, and heal from trauma at their own pace.
+Built during the **USNepal Hackathon**, MindGuard acts as a **bridge between silence and support** — empowering users to understand their emotional state, build healthy coping habits, and access help privately, without fear of judgment.
+
+It enables users to:
+- Understand their emotional state **safely and privately**
+- Manage stress and anxiety **without clinical labels**
+- Build healthy coping habits **at their own pace**
+- Access support **without fear of stigma or social exposure**
+
+---
+
+## 🔐 How MindGuard Directly Reduces Stigma
+
+### 🕶️ 1. Privacy-First by Design
+- Works **fully offline** — no internet required
+- **No mandatory personal data** collection
+- **Encrypted journaling** and local-only storage
+- Optional **biometric lock** (fingerprint/Face ID)
+- **No cloud sync** without explicit user consent
+
+> Users can seek help without anyone — family, friends, or society — ever knowing.
+
+### 🌱 2. Non-Clinical, Culturally Neutral Language
+- "Stress & Experience Check" instead of "PTSD Diagnosis"
+- "Self-care tools" instead of "therapy sessions"
+- "Wellness journey" instead of "mental health treatment"
+- No intimidating medical terminology anywhere in the app
+
+> Reduces psychological resistance and fear of being labeled.
+
+### 🧩 3. Fully Anonymous & Self-Guided
+- No therapist required
+- No social exposure or community features
+- Fully self-paced — users control every step
+- No pressure, no judgment, no deadlines
+
+> Ideal for users who are uncomfortable with formal help or social disclosure.
+
+### 🌏 4. Culturally Adaptable Design
+- Tools framed around **daily life** — sleep, stress, focus, balance
+- Emphasis on **well-being and resilience**, not illness
+- Suitable for use **privately within family-centered societies**
+- Designed to feel like a **wellness app**, not a mental health clinic
+
+> Makes mental wellness approachable in communities where stigma runs deep.
+
+---
+
+## ⚠️ Why Early Support Matters
+
+```
+Stress / Anxiety (Early Stage)
+        │
+        │  ← MindGuard intervenes HERE
+        ▼
+  If untreated...
+        │
+        ▼
+  Chronic Stress → Burnout → Trauma
+        │
+        ▼
+  PTSD / Depression / Substance Abuse
+        │
+        ▼
+     Crisis State
+```
+
+- Most people **do not seek help** at early stages due to stigma
+- Early intervention can **prevent long-term mental health conditions**
+- MindGuard acts as the **first line of support** — accessible, private, and judgment-free
 
 ---
 
 ## ✨ Key Features
 
-### 1. 🧪 PTSD Self-Assessment Tool
+### 1. 🧪 Stress & Experience Check (Self-Assessment)
 
-A clinically-inspired, multi-category assessment system that helps users understand their trauma profile.
+A private self-reflection tool to help users understand their emotional well-being — framed as a **wellness check**, not a clinical diagnosis.
 
-- **5 Trauma Categories**: Abuse, Assault, War/Combat, Accident, Other
-- **12 targeted questions** per category with validated scoring
-- **4-tier risk scoring**: Low → Moderate → High → Severe
-- Animated result visualization with personalized recommendations
-- Immediate guidance on next steps based on severity level
+- **5 Life Experience Categories**: Relationships, Work/Study, Loss, Conflict, General Stress
+- **12 reflective questions** per category with supportive scoring
+- **4-tier wellness insight**: Balanced → Mild Stress → Elevated → Needs Attention
+- Personalized self-care recommendations based on results
+- Gentle, non-alarming language throughout
 
-### 2. 🌬️ Guided Breathing Exercises
+> Encourages self-awareness without labeling or stigmatizing.
 
-Scientifically proven breathing techniques to activate the parasympathetic nervous system and reduce acute anxiety.
+### 2. 🌬️ Guided Breathing & Calm Techniques
 
-- **4 breathing patterns**: 4-7-8, Box Breathing (4-4-4-4), 5-5-5, and more
+Simple, science-backed breathing exercises to reduce stress and anxiety — presented as **everyday relaxation tools**.
+
+- **4 breathing patterns**: 4-7-8, Box Breathing, 5-5-5, Calming Breath
 - Animated breathing circle with real-time inhale/hold/exhale guidance
 - Customizable session duration (1–15 minutes)
-- Breath count tracking per session
+- No clinical framing — just "take a breath and feel better"
 
-### 3. 🧘 Meditation & Mindfulness
+> Provides immediate relief without needing therapy or professional help.
 
-A full-featured meditation suite with multiple categories and session types.
+### 3. 🧘 Mindfulness & Relaxation Sessions
 
-- **Guided Meditation**: Trauma Healing, Anxiety Relief, Sleep Preparation, Grounding
-- **Body Scan**: Full Body Scan, Tension Release
-- **Breathing Meditations**: Box Breathing, Calming Breath
-- **Loving Kindness**: Self-Compassion, Forgiveness
-- Built-in meditation timer (5–60 minutes)
-- Progress tracking with streak counter
+A full meditation suite framed around **sleep, focus, and daily calm** — not mental illness treatment.
 
-### 4. 🎵 Neural Beats (Binaural Audio Therapy)
+- **Guided Sessions**: Sleep Preparation, Stress Relief, Focus, Grounding
+- **Body Scan**: Tension Release, Full Body Awareness
+- **Loving Kindness**: Self-Compassion, Inner Peace
+- Built-in timer (5–60 minutes), streak counter, progress tracking
 
-Binaural beats are a scientifically studied auditory processing artifact that can help synchronize brainwaves to specific frequencies.
+> Introduces mental wellness in a socially acceptable, stigma-free way.
 
-| Beat Type          | Frequency  | Benefit                             |
-| ------------------ | ---------- | ----------------------------------- |
-| Alpha Waves        | 8–12 Hz   | Relaxation, Focus, Creativity       |
-| Beta Waves         | 12–30 Hz  | Alertness, Problem Solving          |
-| Theta Waves        | 4–8 Hz    | Deep Meditation, Healing, Intuition |
-| Delta Waves        | 0.5–4 Hz  | Deep Sleep, Recovery                |
-| Gamma Waves        | 30–100 Hz | Peak Performance, Insight           |
-| Schumann Resonance | 7.83 Hz    | Grounding, Natural Harmony          |
+### 4. 🎵 Neural Beats (Calming Audio)
 
-- Real-time volume control
-- Animated wave visualizations while playing
-- Loop mode for extended sessions
+Binaural audio therapy — presented as **focus and relaxation music**, not medical treatment.
+
+| Beat Type | Frequency | Benefit |
+|-----------|-----------|---------|
+| Alpha Waves | 8–12 Hz | Relaxation, Focus, Creativity |
+| Beta Waves | 12–30 Hz | Alertness, Problem Solving |
+| Theta Waves | 4–8 Hz | Deep Calm, Healing, Intuition |
+| Delta Waves | 0.5–4 Hz | Deep Sleep, Recovery |
+| Gamma Waves | 30–100 Hz | Peak Performance, Clarity |
+| Schumann Resonance | 7.83 Hz | Grounding, Natural Balance |
+
+> Helps users relax without feeling like they are "seeking mental health help."
 
 ### 5. 🌊 Calming Sounds Library
 
@@ -105,67 +185,87 @@ A rich ambient soundscape library for relaxation, focus, and sleep.
 - **Meditation**: Tibetan Bowl, Om Chanting, Temple Bells
 - **Focus**: White Noise, Brown Noise, Pink Noise
 - **Cozy**: Fireplace, Coffee Shop, Library
-- Custom sound mixing with individual volume sliders
-- Favorites system and sleep timer (5 min – 2 hours)
+- Custom sound mixing, favorites system, sleep timer (5 min – 2 hours)
 
-### 6. 🌿 5-4-3-2-1 Grounding Exercise
+> Normalizes mental wellness as part of everyday life.
 
-A clinically recognized technique for managing dissociation and panic attacks by anchoring the user to the present moment through the five senses.
+### 6. 🌿 Grounding Techniques (5-4-3-2-1)
 
-- Step-by-step guided walkthrough
+A clinically recognized technique for managing overwhelming emotions — presented as a **simple mindfulness exercise**.
+
+- Step-by-step guided walkthrough through all 5 senses
 - Animated progress indicators
-- Completion celebration with reflection prompt
-- Ideal for acute anxiety and flashback management
+- Completion reflection prompt
+- Useful during stress, panic, or emotional discomfort
 
-### 7. 🧘 Yoga & Movement Therapy
+> Gives users an immediate, private tool for emotional regulation.
 
-Trauma-informed yoga routines designed to reconnect the mind and body — a core component of somatic PTSD therapy.
+### 7. 🧘 Yoga & Movement
+
+Trauma-informed movement routines framed as **daily wellness practices**.
 
 - **Gentle Morning**: Mountain Pose, Cat-Cow, Child's Pose
-- **Anxiety Relief**: Legs Up the Wall, Gentle Twist, Savasana
-- **Evening Unwind**: Forward Fold, Supine Spinal Twist, Meditation
+- **Stress Relief**: Legs Up the Wall, Gentle Twist, Savasana
+- **Evening Unwind**: Forward Fold, Spinal Twist, Meditation
 - Pose-by-pose timer with animated breathing guide
-- Session completion tracking
 
-### 8. 🎮 Mindful Games
+> Reconnects mind and body in a culturally familiar, non-clinical way.
 
-Therapeutic games designed to engage the prefrontal cortex and reduce hyperarousal.
+### 8. 🎮 Mindful Activities & Games
 
-- **Breathing Exercise Game**: Visual breathing cues with gamification
+Therapeutic games designed to engage the mind and reduce stress — presented as **fun, relaxing activities**.
+
+- **Breathing Game**: Visual breathing cues with gentle gamification
 - **Memory Garden**: Match flowers to improve focus and working memory
 - **Mindful Coloring**: Color mandalas to practice present-moment awareness
 
-### 9. 📓 Secure Encrypted Journal
+> Makes mental wellness approachable, engaging, and completely stigma-free.
 
-A private, encrypted journaling space for emotional processing — a cornerstone of trauma therapy.
+### 9. 📓 Private Secure Journal
+
+An encrypted personal reflection space — the **safest place to express emotions** without fear.
 
 - Mood tagging with 8 emotional states (😊 Happy, 😢 Sad, 😰 Anxious, 😌 Calm, 😠 Angry, 🙏 Grateful, 🌟 Hopeful, 😐 Neutral)
-- Therapeutic tag system: `#trigger`, `#progress`, `#therapy`, `#breakthrough`, `#coping`, and more
-- Encrypted local storage via Hive + Flutter Secure Storage
-- Mood analytics dashboard
-- Staggered animation entry list
+- Therapeutic tag system: `#stress`, `#progress`, `#coping`, `#breakthrough`, and more
+- **Encrypted local storage** — data never leaves the device
+- Mood analytics dashboard for personal insight
+- Biometric lock for extra privacy
 
-### 10. 🚨 Emergency Support System
+> Enables emotional expression in a completely safe, judgment-free environment.
 
-A one-tap emergency response system for crisis moments.
+### 10. 🚨 Flexible Support System
 
-- **Call 911** — direct emergency services dial
-- **Crisis Hotline (988)** — National Suicide & Crisis Lifeline
-- **Location Sharing** — GPS-based location sharing with trusted contacts
+A discreet support system that meets users **where they are comfortable**.
+
+- **Trusted Contact** — share location with a trusted friend or family member
+- **Crisis Helpline** — one-tap access to local/national mental health lines
+- **Emergency Mode** — full UI shift for crisis moments
 - Haptic feedback on activation
-- Emergency Mode UI — entire app shifts to red alert theme
-- Persistent emergency banner when active
 
-### 11. 📊 Progress & Profile Dashboard
+> Users can seek help in ways they feel comfortable with — no forced disclosure.
 
-Track your healing journey with data-driven insights.
+### 11. 📊 Wellness Progress Dashboard
+
+Track your personal wellness journey with private, data-driven insights.
 
 - Session streak counter
-- Total sessions completed
-- Progress percentage visualization
-- Mood trend charts (fl_chart)
-- Calendar-based activity tracking (table_calendar)
-- Assessment history
+- Total wellness sessions completed
+- Mood trend charts over time
+- Calendar-based activity tracking
+- Personal assessment history
+
+---
+
+## 🌏 Why MindGuard Stands Out
+
+| Challenge | Traditional Solutions | MindGuard Approach |
+|-----------|----------------------|-------------------|
+| Stigma | Requires openness & disclosure | Fully private & discreet |
+| Access | Limited professionals, long waitlists | Always available, mobile-first |
+| Cultural barriers | One-size-fits-all clinical approach | Culturally adaptable, neutral language |
+| Early support | Often ignored until crisis | Core focus — intervenes early |
+| Cost | Expensive therapy ($100–$300/hr) | Free, offline-capable |
+| Language barrier | Clinical terminology | Simple, everyday language |
 
 ---
 
@@ -237,20 +337,20 @@ Auth Check (Riverpod isAuthenticatedProvider)
                     │
           ┌─────────┼──────────────────────────────┐
           ▼         ▼         ▼         ▼           ▼
-    Assessment  Breathing  Meditation  Neural    Grounding
-    (5 categories) Exercise  Sessions   Beats    5-4-3-2-1
+    Wellness    Breathing  Meditation  Neural    Grounding
+     Check      Exercise   Sessions   Beats     5-4-3-2-1
           │
           ▼
-    12 Questions
+    12 Reflective Questions
           │
           ▼
-    Risk Scoring (0–48 pts)
+    Wellness Scoring (0–48 pts)
           │
           ▼
-    Results + Recommendations
+    Personalized Insights + Self-Care Recommendations
           │
           ▼
-    Therapeutic Tools (matched to risk level)
+    Private Wellness Tools (matched to user's needs)
 ```
 
 ---
@@ -259,212 +359,113 @@ Auth Check (Riverpod isAuthenticatedProvider)
 
 ### Framework & Language
 
-| Technology            | Purpose                                         |
-| --------------------- | ----------------------------------------------- |
+| Technology | Purpose |
+|------------|---------|
 | **Flutter 3.x** | Cross-platform UI framework (iOS, Android, Web) |
-| **Dart**        | Programming language                            |
+| **Dart** | Programming language |
 
 ### State Management
 
-| Package                     | Purpose                   |
-| --------------------------- | ------------------------- |
+| Package | Purpose |
+|---------|---------|
 | `flutter_riverpod ^2.6.1` | Reactive state management |
 
 ### Audio & Sound
 
-| Package                   | Purpose                                          |
-| ------------------------- | ------------------------------------------------ |
-| `audioplayers ^6.1.0`   | Sound playback for calming sounds & neural beats |
-| `just_audio ^0.9.40`    | Advanced audio streaming                         |
-| `flutter_tts ^4.1.0`    | Text-to-speech for guided meditation             |
-| `speech_to_text ^7.0.0` | Voice journaling input                           |
+| Package | Purpose |
+|---------|---------|
+| `audioplayers ^6.1.0` | Sound playback for calming sounds & neural beats |
+| `just_audio ^0.9.40` | Advanced audio streaming |
+| `flutter_tts ^4.1.0` | Text-to-speech for guided sessions |
+| `speech_to_text ^7.0.0` | Voice journaling input |
 
 ### Storage & Security
 
-| Package                            | Purpose                                     |
-| ---------------------------------- | ------------------------------------------- |
-| `hive ^2.2.3` + `hive_flutter` | Fast local NoSQL database                   |
-| `flutter_secure_storage ^9.2.2`  | Encrypted key-value storage for tokens      |
-| `shared_preferences ^2.2.2`      | Lightweight preferences                     |
-| `crypto ^3.0.3`                  | Data hashing & encryption                   |
-| `local_auth ^2.3.0`              | Biometric authentication (fingerprint/face) |
+| Package | Purpose |
+|---------|---------|
+| `hive ^2.2.3` + `hive_flutter` | Fast local NoSQL database |
+| `flutter_secure_storage ^9.2.2` | Encrypted key-value storage for tokens |
+| `shared_preferences ^2.2.2` | Lightweight preferences |
+| `crypto ^3.0.3` | Data hashing & encryption |
+| `local_auth ^2.3.0` | Biometric authentication (fingerprint/face) |
 
 ### UI & Animations
 
-| Package                                 | Purpose                      |
-| --------------------------------------- | ---------------------------- |
-| `flutter_animate ^4.5.0`              | Declarative animations       |
-| `lottie ^3.1.2`                       | Lottie JSON animations       |
-| `rive ^0.13.13`                       | Interactive Rive animations  |
-| `animated_text_kit ^4.2.3`            | Text animations (app title)  |
-| `convex_bottom_bar ^3.2.0`            | Animated bottom navigation   |
+| Package | Purpose |
+|---------|---------|
+| `flutter_animate ^4.5.0` | Declarative animations |
+| `lottie ^3.1.2` | Lottie JSON animations |
+| `rive ^0.13.13` | Interactive Rive animations |
+| `animated_text_kit ^4.2.3` | Text animations |
+| `convex_bottom_bar ^3.2.0` | Animated bottom navigation |
 | `flutter_staggered_animations ^1.1.1` | List/grid stagger animations |
-| `shimmer ^3.0.0`                      | Loading skeleton shimmer     |
-| `smooth_page_indicator ^1.2.0`        | Page indicator dots          |
-| `wave ^0.2.2`                         | Wave animation widget        |
-| `liquid_pull_to_refresh ^3.0.1`       | Liquid pull-to-refresh       |
-| `spring ^2.0.2`                       | Spring physics animations    |
-| `circular_countdown_timer ^0.2.4`     | Countdown timer widget       |
-| `google_fonts ^6.2.1`                 | Google Fonts (Inter, etc.)   |
-| `font_awesome_flutter ^10.8.0`        | FontAwesome icon set         |
+| `shimmer ^3.0.0` | Loading skeleton shimmer |
+| `wave ^0.2.2` | Wave animation widget |
+| `google_fonts ^6.2.1` | Google Fonts (Inter, etc.) |
+| `font_awesome_flutter ^10.8.0` | FontAwesome icon set |
 
 ### Data Visualization
 
-| Package                   | Purpose                             |
-| ------------------------- | ----------------------------------- |
-| `fl_chart ^0.69.0`      | Mood trend charts & progress graphs |
-| `table_calendar ^3.1.2` | Activity calendar                   |
+| Package | Purpose |
+|---------|---------|
+| `fl_chart ^0.69.0` | Mood trend charts & progress graphs |
+| `table_calendar ^3.1.2` | Activity calendar |
 
 ### Device & Sensors
 
-| Package                        | Purpose                                      |
-| ------------------------------ | -------------------------------------------- |
-| `sensors_plus ^6.0.1`        | Accelerometer/gyroscope (movement detection) |
-| `vibration ^2.0.0`           | Haptic feedback for emergency alerts         |
-| `camera ^0.10.6`             | Camera for word-reading & AR features        |
-| `geolocator ^13.0.1`         | GPS for emergency location sharing           |
-| `permission_handler ^11.3.1` | Runtime permissions                          |
+| Package | Purpose |
+|---------|---------|
+| `sensors_plus ^6.0.1` | Accelerometer/gyroscope |
+| `vibration ^2.0.0` | Haptic feedback |
+| `camera ^0.10.6` | Camera for AR & emotion detection |
+| `geolocator ^13.0.1` | GPS for trusted contact location sharing |
+| `permission_handler ^11.3.1` | Runtime permissions |
 
 ### Network & Utilities
 
-| Package                     | Purpose                               |
-| --------------------------- | ------------------------------------- |
-| `http ^1.2.2`             | REST API communication                |
-| `url_launcher ^6.3.2`     | Launch phone calls (911, crisis line) |
-| `intl ^0.19.0`            | Date/time formatting                  |
-| `uuid ^4.5.1`             | Unique ID generation                  |
-| `path_provider ^2.1.4`    | File system paths                     |
-| `webview_flutter ^4.13.0` | In-app web content                    |
-
-### Extended Features
-
-| Package                              | Purpose                             |
-| ------------------------------------ | ----------------------------------- |
+| Package | Purpose |
+|---------|---------|
+| `http ^1.2.2` | REST API communication |
+| `url_launcher ^6.3.2` | Launch helpline calls |
+| `intl ^0.19.0` | Date/time formatting |
+| `uuid ^4.5.1` | Unique ID generation |
+| `path_provider ^2.1.4` | File system paths |
+| `webview_flutter ^4.13.0` | In-app web content |
 | `ar_flutter_plugin_updated ^0.0.1` | Augmented Reality (premium feature) |
 
 ---
 
 ## 🔐 Security & Privacy
 
-MindGuard takes user privacy extremely seriously — especially given the sensitive nature of mental health data.
+Privacy is not a feature — it is the **foundation** of MindGuard. Without trust, users in stigma-heavy communities will never engage.
 
-- **All journal entries** are encrypted at rest using Hive + AES encryption
+- **All journal entries** encrypted at rest using Hive + AES encryption
 - **Authentication tokens** stored in platform-level secure enclave (Keychain/Keystore)
 - **Biometric authentication** support (fingerprint/Face ID) for app access
 - **No data leaves the device** without explicit user consent
 - **Zero PII collection** by default — the app works fully offline
 - **Crypto hashing** for any sensitive data comparisons
+- **No social features** — no community, no sharing, no exposure
 
 ---
 
 ## 📱 Screens Overview
 
-| Screen             | Description                                               |
-| ------------------ | --------------------------------------------------------- |
-| Login / Register   | JWT-based auth with secure token storage                  |
-| Home Dashboard     | Hero section, stats, quick access, therapeutic tools grid |
-| PTSD Assessment    | Category selection → 12 questions → animated results    |
-| Breathing Exercise | Animated breathing circle with pattern selection          |
-| Meditation         | 4-tab interface: Sessions, Programs, Progress, Timer      |
-| Neural Beats       | 6-beat grid with live wave animations                     |
-| Calming Sounds     | 4-tab: Sounds, Mix, Favorites, Sleep Timer                |
-| Grounding Exercise | Step-by-step 5-4-3-2-1 with progress tracking             |
-| Yoga & Movement    | Routine selection + live pose timer                       |
-| Mindful Games      | Breathing game, Memory Garden, Mindful Coloring           |
-| Secure Journal     | Encrypted entries with mood + tag system                  |
-| Profile & Reports  | Progress charts, streak, calendar activity                |
-| Emergency Panel    | One-tap 911, 988 crisis line, location share              |
-
----
-
-## 🌍 Impact & Vision
-
-### Why This Matters
-
-- PTSD is a **global health crisis** affecting soldiers, abuse survivors, refugees, accident victims, and everyday people
-- The **treatment gap** is enormous — most people never get help
-- Mobile-first mental health tools have shown **clinically significant results** in multiple studies
-- Apps like MindGuard can serve as a **bridge** between crisis and professional care
-
-### What Makes MindGuard Different
-
-- **Holistic approach** — not just one tool, but a complete ecosystem
-- **Evidence-based** — every feature is grounded in clinical research (CBT, DBT, somatic therapy, binaural science)
-- **Privacy-first** — no cloud dependency, no data harvesting
-- **Beautiful UX** — mental health apps should feel calming, not clinical
-- **Emergency-ready** — one-tap access to crisis resources at all times
-- **Offline-capable** — works without internet, critical for users in crisis
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK `^3.8.1`
-- Dart SDK `^3.8.1`
-- Android Studio / Xcode
-- Physical device recommended (for camera, biometrics, audio)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-org/mindguard.git
-cd mindguard
-
-# Install dependencies
-flutter pub get
-
-# Run on device/emulator
-flutter run
-```
-
-### Build for Production
-
-```bash
-# Android APK
-flutter build apk --release
-
-# iOS
-flutter build ios --release
-
-# Web
-flutter build web --release
-```
-
----
-
-## 📁 Assets
-
-```
-assets/
-├── first/          # Onboarding & feature images
-│   ├── 78.png
-│   ├── ar.png
-│   ├── game.png
-│   ├── today.png
-│   └── yoga.png
-└── music/          # Ambient audio files
-    ├── ocean.wav
-    ├── rain.wav
-    ├── temple_bells.wav
-    ├── thunder.wav
-    └── tibetan_bowl.wav
-```
-
----
-
-## 🧩 PTSD Assessment Scoring
-
-| Score Range | Percentage | Risk Level  | Action                                      |
-| ----------- | ---------- | ----------- | ------------------------------------------- |
-| 0–19 pts   | 0–40%     | 🟢 Low      | Self-care, monitoring                       |
-| 20–29 pts  | 40–60%    | 🟡 Moderate | Consider counseling, stress management      |
-| 30–38 pts  | 60–80%    | 🟠 High     | Professional therapy recommended            |
-| 39–48 pts  | 80–100%   | 🔴 Severe   | Immediate professional help, crisis support |
-
-> ⚠️ **Disclaimer**: This assessment is a self-screening tool and is NOT a clinical diagnosis. Always consult a licensed mental health professional for proper evaluation and treatment.
+| Screen | Description |
+|--------|-------------|
+| Login / Register | JWT-based auth with secure token storage |
+| Home Dashboard | Wellness tools grid, mood check, quick access |
+| Wellness Check | Reflective questions → personalized insights |
+| Breathing Exercise | Animated breathing circle with pattern selection |
+| Meditation | 4-tab: Sessions, Programs, Progress, Timer |
+| Neural Beats | 6-beat grid with live wave animations |
+| Calming Sounds | 4-tab: Sounds, Mix, Favorites, Sleep Timer |
+| Grounding Exercise | Step-by-step 5-4-3-2-1 with progress tracking |
+| Yoga & Movement | Routine selection + live pose timer |
+| Mindful Games | Breathing game, Memory Garden, Mindful Coloring |
+| Secure Journal | Encrypted entries with mood + tag system |
+| Profile & Reports | Progress charts, streak, calendar activity |
+| Support Panel | Trusted contact, helpline, emergency mode |
 
 ---
 
@@ -523,28 +524,26 @@ Mindguard/
 - Stores every detection in `EmotionRecord` with timestamp and session ID
 - Supports filtering history by `today`, `week`, or `month`
 
-**📖 AI-Powered Daily Story (Azure OpenAI GPT)**
-- Reads user's bio and trauma type from their profile
+**📖 AI-Powered Daily Wellness Story (Azure OpenAI GPT)**
+- Reads user's bio and experience type from their profile
 - Calls Azure OpenAI GPT to generate a personalized, trauma-informed healing story
 - Story is compassionate, under 250 words, focused on resilience and hope
-- Regenerated fresh on every request and saved to `TodayStory` model
+- Regenerated fresh on every request — always relevant, always personal
 
 **🔐 Authentication System**
 - JWT-based auth via `djangorestframework-simplejwt`
 - Custom `MyTokenObtainPairSerializer` — supports login with **email or username**
-- Custom JWT claims include `is_staff` and `is_superuser`
 - Google OAuth2 social login via `django-allauth`
 - Token rotation with blacklisting on refresh
-- Access token lifetime: 3000 minutes (hackathon-friendly)
 
 **👤 User Profile**
 - Auto-created via Django signals on user registration
-- Stores profile picture (auto-resized to 1080×1080), bio, and trauma category
-- `Trauma` model links users to their specific PTSD trauma type
+- Stores profile picture (auto-resized), bio, and experience category
+- Links users to their specific wellness journey type
 
 **🎮 3D AR Models**
 - `BlenderModels` stores `.glb` files served via `/media/blender_models/`
-- Used by the Flutter AR feature to load 3D objects in augmented reality
+- Used by the Flutter AR feature for immersive wellness experiences
 
 ### Backend Tech Stack
 
@@ -562,6 +561,32 @@ Mindguard/
 | **drf-yasg** | Swagger API documentation |
 | **SQLite** | Database (dev) |
 | **ngrok** | Tunnel for mobile app testing |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK `^3.8.1`
+- Dart SDK `^3.8.1`
+- Android Studio / Xcode
+- Python 3.10+
+- Physical device recommended (for camera, biometrics, audio)
+
+### Flutter App Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/zione-kushwaha/Mind-Guard.git
+cd Mind-Guard
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run on device/emulator
+flutter run
+```
 
 ### Backend Setup
 
@@ -589,20 +614,74 @@ python manage.py runserver
 ngrok http 8000
 ```
 
-### Full Project Structure
+### Build for Production
+
+```bash
+# Android APK
+flutter build apk --release
+
+# iOS
+flutter build ios --release
+
+# Web
+flutter build web --release
+```
+
+---
+
+## 📁 Project Structure
 
 ```
-DeerHack/
-├── deerhack/                   # Flutter mobile app
-│   ├── lib/                    # Dart source code
-│   ├── assets/                 # Images & audio
-│   ├── android/                # Android config
-│   ├── ios/                    # iOS config
-│   └── pubspec.yaml
-└── Mindguard/                  # Backend
+Mind-Guard/
+├── lib/                        # Flutter Dart source code
+├── assets/
+│   ├── first/                  # Onboarding & feature images
+│   └── music/                  # Ambient audio files
+│       ├── ocean.wav
+│       ├── rain.wav
+│       ├── temple_bells.wav
+│       ├── thunder.wav
+│       └── tibetan_bowl.wav
+├── android/                    # Android config
+├── ios/                        # iOS config
+├── pubspec.yaml                # Flutter dependencies
+└── Mindguard/                  # Django backend
     ├── backend/                # Django project
     └── requirements.txt
 ```
+
+---
+
+## 🧩 Wellness Assessment Scoring
+
+| Score Range | Percentage | Wellness Level | Recommendation |
+|-------------|------------|----------------|----------------|
+| 0–19 pts | 0–40% | 🟢 Balanced | Continue self-care practices |
+| 20–29 pts | 40–60% | 🟡 Mild Stress | Try breathing & mindfulness tools |
+| 30–38 pts | 60–80% | 🟠 Elevated | Daily wellness routines recommended |
+| 39–48 pts | 80–100% | 🔴 Needs Attention | Consider reaching out to a trusted person |
+
+> ⚠️ **Note**: This is a self-reflection tool, not a clinical diagnosis. MindGuard encourages users to seek professional support when needed — in a way that feels safe and comfortable for them.
+
+---
+
+## 🎯 Impact
+
+MindGuard aims to:
+
+- **Reduce mental health stigma** by making wellness feel normal and private
+- **Encourage early emotional awareness** before problems escalate
+- **Provide accessible support** for underserved and stigma-affected populations
+- **Prevent escalation** from everyday stress into severe conditions
+- **Empower individuals** in conservative communities to take the first step — privately
+
+---
+
+## 🏁 Vision
+
+> A world where seeking mental wellness support feels as **normal and safe** as checking your physical health — regardless of culture, background, or social norms.
+
+MindGuard is not just an app. It is a **movement toward destigmatizing mental health** — one private, judgment-free session at a time.
 
 ---
 
@@ -611,9 +690,9 @@ DeerHack/
 We welcome contributions from developers, mental health professionals, and UX designers.
 
 1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-therapy-tool`)
+2. Create a feature branch (`git checkout -b feature/new-wellness-tool`)
 3. Commit your changes (`git commit -m 'Add new grounding technique'`)
-4. Push to the branch (`git push origin feature/new-therapy-tool`)
+4. Push to the branch (`git push origin feature/new-wellness-tool`)
 5. Open a Pull Request
 
 ---
@@ -639,13 +718,13 @@ MindGuard was built by a passionate team at **USNepal Hackathon**:
 
 ## 🙏 Acknowledgements
 
-- National Institute of Mental Health (NIMH) for PTSD research data
-- Veterans Affairs PTSD research programs
+- National Institute of Mental Health (NIMH) for mental health research data
+- World Health Organization (WHO) for global mental health statistics
 - The Flutter & Dart open-source community
 - All mental health advocates who inspired this project
 
 ---
 
-> *MindGuard was built with empathy, purpose, and the belief that everyone deserves access to mental health support — regardless of where they are or what they can afford.*
+> *MindGuard was built with empathy, purpose, and the belief that everyone deserves access to mental wellness support — regardless of where they are, what they can afford, or what their community thinks.*
 
-**Built with ❤️ at USNepal Hackathon**
+**Built with ❤️ at USNepal Hackathon — Problem Statement 2: Lowering Mental Health Stigma**
