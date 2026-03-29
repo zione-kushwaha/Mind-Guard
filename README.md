@@ -624,6 +624,19 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
+## 👥 Team Members
+
+MindGuard was built by a passionate team at **USNepal Hackathon**:
+
+| Name | Role |
+|------|------|
+| **Jeevan Kumar Kushwaha** | Full Stack Developer (Flutter + Django) |
+| **Dipesh Acharya** | Backend Developer & AI Integration |
+| **Kritam Bhattarai** | Flutter Developer & UI/UX |
+| **Jenisha Shrestha** | Flutter Developer & Feature Design |
+
+---
+
 ## 🙏 Acknowledgements
 
 - National Institute of Mental Health (NIMH) for PTSD research data
